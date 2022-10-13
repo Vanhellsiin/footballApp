@@ -1,0 +1,28 @@
+.title{ 
+    margin: 50px 120px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80vw;
+    font-size: 24px;
+    color: #182C62;
+    font-weight: bold;
+}
+
+.content-container {
+    width: 100%;
+    min-height: 90vh;
+    display: grid;
+    align-items: center;
+    grid-template-rows: repeat(6, 1fr);
+    /* grid-template-rows: auto ; */
+    
+}
+
+.row-content {
+    display: grid;
+    align-content: space-between;
+    grid-template-columns: (6, 1fr);
+
+
+}

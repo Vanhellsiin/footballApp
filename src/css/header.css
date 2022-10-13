@@ -1,0 +1,88 @@
+
+.header{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-template-rows: auto ;
+    height: 60px;
+    background-color: #025FEB;
+}
+
+.home-button {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    height: 25px;
+    width: 220px;
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+    color: #FFFFFF;
+    margin-top: 10px;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 16px;
+    font-family: 'Open Sans';
+
+}
+
+.schedule-button {
+    grid-column-start: 6;
+    grid-column-end: 7;
+    height: 25px;
+    width: 220px;
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+    color: #FFFFFF;
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 16px;
+    font-family: 'Open Sans';
+}
+
+.leadboard-button {
+    grid-column-start: 7;
+    grid-column-end: 8;
+    height: 25px;
+    width: 220px;
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+    color: #FFFFFF;
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 16px;
+    font-family: 'Open Sans';
+}
+
+.image-one {
+    margin-left: 10px;
+}
+
+.image-two{
+    height: 20px;
+    float:left;
+    height: 30px;
+    padding-left: 50px;
+}
+
+.image-three {
+    height: 20px;
+    float:left;
+    height: 30px;
+    padding-left: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
