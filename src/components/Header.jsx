@@ -21,7 +21,7 @@ const Header = () => {
                 Schedule
             </div>
 
-            <Link className="leadboard-button">
+            <Link className="leadboard-button" to={"/Leaderboard"}>
             <img  className="image-three" src={leaderboard} alt="" />
                 Leaderboard
             </Link>

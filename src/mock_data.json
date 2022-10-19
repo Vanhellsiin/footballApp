@@ -1,0 +1,6 @@
+[
+    { "team": "Brazil", "win": 2, "lose": 0, "tie": 1, "gs": 8, "ga": 4, "pts": 7 },
+    { "team": "Serbia", "win": 0, "lose": 2, "tie": 1, "gs": 3, "ga": 2, "pts": 1 },
+    { "team": "Switzerland", "win": 0, "lose": 2, "tie": 1, "gs": 4, "ga": 7, "pts": 2 },
+    { "team": "Cameroon", "win": 1, "lose": 0, "tie": 2, "gs": 1, "ga": 6, "pts": 5 }
+]
